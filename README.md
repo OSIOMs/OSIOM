@@ -24,6 +24,8 @@
 
 #### Open Source Independent Original Music
 
+如果你也热爱着音乐，请热爱它的一切。音乐是一种没有理由的艺术，让安静的世界，多一份律动！
+
 ---
 * ##### Open Source 开源 :dart:
 
