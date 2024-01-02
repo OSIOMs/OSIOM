@@ -54,7 +54,7 @@
 ---
 ## >>> How To Join OSIOM ? :two_hearts:
 
-#####  :one: &nbsp; · &nbsp; `Github` 中已创建 `OSIOM-GROUP` 组织，所有分享的音乐工程都将会在此
+#####  :one: &nbsp; · &nbsp; `Github` 中已创建 `OSIOM-ORG` 组织，所有分享的音乐工程都将会在此 [🔅 Go -> 前往加入](https://github.com/OSIOM-ORG)
 
 ##### :two: &nbsp; · &nbsp; 认同 `OSIOM` 理念的朋友，同时也是一位 `OSIOM` 者，喜欢音乐，无私地分享音乐
 
