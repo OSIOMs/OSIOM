@@ -2,7 +2,7 @@
   <h1 align="center"> :boom: OSIOM :boom: </h1>
   <div align="center">
     <a href="https://github.com/OSIOMs/OSIOM/blob/OSIOMusic/README.md#welcome-to-the-osiom-------i-am-one-of-osiom" target="_self">
-      <img src="https://img.shields.io/badge/Music-Share-brightgreen?style=flat&logo=Canonical" /></a> 
+      <img src="https://img.shields.io/badge/Music-Share-brightgreen?logo=Kubuntu&logoColor=f5f5f5" /></a> 
     <a href="https://github.com/OSIOMs/OSIOM/blob/OSIOMusic/README.md#open-source-%E5%BC%80%E6%BA%90-dart" target="_self">
       <img src="https://img.shields.io/badge/Music-Open Source-blue?style=flat&logo=Authy" /></a> 
     <a href="https://github.com/OSIOMs/OSIOM/blob/OSIOMusic/README.md#independent-%E7%8B%AC%E7%AB%8B-dart" target="_self">
